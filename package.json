@@ -1,5 +1,5 @@
 {
-  "name": "winning-the-bluff",
+  "name": "luxury-game-ui",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^0.8.0",
-    "marked": "^15.0.8"
+
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
